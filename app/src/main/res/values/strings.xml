@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">bvw</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string-array name="verse">
+        <item>Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. Isaiah 41:10</item>
+        <item>The Lord is my strength and song, and is become my salvation. The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the Lord doeth valiantly. The right hand of the Lord is exalted: the right hand of the Lord doeth valiantly. Psalm 118:14-16</item>
+        <item>For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind. 2 Timothy 1:7</item>
+        <item>These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world. John 16:33</item>
+        <item>Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid. John 14:27</item>
+        <item>And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful. Colossians 3:15</item>
+        <item>The Lord of hosts is with us; the God of Jacob is our refuge. Selah. Psalm 46:11</item>
+        <item>Be strong and of a good courage, fear not, nor be afraid of them: for the Lord thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee. Deuteronomy 31:6</item>
+        <item>The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid? Psalm 27:1</item>
+        <item>To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints. saints: or, holy ones, or, angels Thessalonians 3:13</item>
+        <item>But thanks be to God, which giveth us the victory through our Lord Jesus Christ. 1 Corinthians 15:57</item>
+        <item>Nay, in all these things we are more than conquerors through him that loved us. Romans 8:37</item>
+        <item>Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place. 2 Corinthians 2:14</item>
+        <item>I can do all things through Christ which strengtheneth me. Philippians 4:13</item>
+        <item>For sin shall not have dominion over you: for ye are not under the law, but under grace. Romans 6:14</item>
+        <item>There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. Romans 8:1-2</item>
+        <item>For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart. Hebrews 4:12</item>
+        <item>And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it. in it: or, in himself Colossians 2:15</item>
+        <item>But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar peculiar: or, purchased people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: 1 Peter 2:9</item>
+        <item>Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: 1 Peter 5:8</item>
+        <item>So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me. Hebrews 13:6</item>
+        <item>For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith. 1 John 5:4</item>
+        <item>And the Lord said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.Joshua 10:8</item>
+    </string-array>
+</resources>
